@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskManager
 
 A modern To-Do List web application built using HTML, CSS, and JavaScript.
@@ -25,3 +26,6 @@ A modern To-Do List web application built using HTML, CSS, and JavaScript.
 ## Author
 
 Tanishq Mummidi
+=======
+# TaskManager
+>>>>>>> a646a4d0ce673431b5da735af652d423d417cc54
